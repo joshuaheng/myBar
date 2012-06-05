@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bars</string>
+    <string name="app_name">myBar</string>
+    
+     <string name="about">About</string>
+
+    <string-array name="bars_titles">
+        <item>Brothers</item>
+        <item>Firehaus</item>
+        <item>Joe\'s Brewery</item>
+        <item>Kam\'s</item>
+        <item>Legends</item>
+        <item>Murphy\'s</item>
+        <item>Red Lion</item>
+        <item>The Clybourne</item>
+    </string-array>
+    <string-array name="bars_links">
+        <item>http://www.brothersbar.com/location_home.cfm</item>
+        <item>http://www.firehausbar.com/specials.html</item>
+        <item>http://www.joesbrewery.com/2009/01/specials.html</item>
+        <item>http://home.kamsillini.com/content/view/125/1/</item>
+        <item>http://brianhenkel.com/legendsongreen/</item>
+        <item>http://www.facebook.com/pages/Murphys-Pub/116375968386068</item>
+        <item>http://www.redlionchampaign.com/specials.html</item>
+        <item>http://www.theclybourne.com/specials.html</item>
+    </string-array>
+
+    <string name="SpecialsListActivity">SpecialsListActivity</string>
+    <string name="SpecialsViewerActivity">SpecialsViewerActivity</string>
+</resources>

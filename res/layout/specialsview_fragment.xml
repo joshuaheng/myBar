@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <fragment
+        android:name="com.cadmusdev.myBar.SpecialsViewerFragment"
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:id="@+id/specialsview_fragment"
+        >
+    </fragment>
+    
+</LinearLayout>
